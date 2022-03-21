@@ -1,0 +1,101 @@
+{
+  "1raDivision": [
+    {
+      "id": 1,
+      "nombre": "Sebastian",
+      "apellido": "Battaglia",
+      "club": "Boca Juniors",
+      "edad": "41 años",
+      "nacimiento": "Santa Fe"
+    },
+    {
+      "id": 2,
+      "nombre": "Marcelo",
+      "apellido": "Gallardo",
+      "club": "River Plate",
+      "edad": "46 años",
+      "nacimiento": "Merlo, BsAs"
+    },
+    {
+      "id": 3,
+      "nombre": "Pedro",
+      "apellido": "Troglio",
+      "club": "San Lorenzo",
+      "edad": "56 años",
+      "nacimiento": "Lujan, BsAs"
+    },
+    {
+      "id": 4,
+      "nombre": "Eduardo",
+      "apellido": "Dominguez",
+      "club": "Independiente",
+      "edad": "43 años",
+      "nacimiento": "Lanus, BsAs"
+    },
+    {
+      "id": 5,
+      "nombre": "Fernando",
+      "apellido": "Gago",
+      "club": "Racing club",
+      "edad": "35 años",
+      "nacimiento": "Ciudadela, BsAs"
+    },
+    {
+      "id": 6,
+      "nombre": "Israel",
+      "apellido": "Damonte",
+      "club": "Huracan",
+      "edad": "40 años",
+      "nacimiento": "Salto, BsAs"
+    },
+    {
+      "id": 7,
+      "nombre": "Angel",
+      "apellido": "Hoyos",
+      "club": "Talleres",
+      "edad": "58 años",
+      "nacimiento": "Cordoba"
+    },
+    {
+      "id": 8,
+      "nombre": "Mauricio",
+      "apellido": "Pelegrino",
+      "club": "Velez Sarfield",
+      "edad": "50 años",
+      "nacimiento": "Cordoba"
+    },
+    {
+      "id": 9,
+      "nombre": "Iván",
+      "apellido": "Delfino",
+      "club": "Patronato",
+      "edad": "50 años",
+      "nacimiento": "Santa Fe"
+    },
+    {
+      "id": 10,
+      "nombre": "Cristian",
+      "apellido": "Golzalez",
+      "club": "Rosario Central",
+      "edad": "47 años",
+      "nacimiento": "Rosario, Santa Fe"
+    },
+    {
+      "id": 11,
+      "nombre": "Javier",
+      "apellido": "Sanguinetti",
+      "club": "Newell's Old Boys",
+      "edad": "51 años",
+      "nacimiento": "Lomas de Zamora, BsAs"
+    },
+    {
+      "id": 12,
+      "nombre": "Ricardo",
+      "apellido": "Zielinski",
+      "club": "Estudiantes de La Plata",
+      "edad": "62 años",
+      "nacimiento": "Lanus, BsAs"
+    }
+  ],
+  "2daDivision": []
+}
