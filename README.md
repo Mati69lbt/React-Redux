@@ -16,7 +16,7 @@
           <b>
             <i>Action</i>
           </b>
-          , objeto <i>JS</i> con 2 propiedades: <i>type</i> y <i>payload</i>{" "}
+          , objeto <i>JS</i> con 2 propiedades: <i>type</i> y <i>payload</i>
           (datos).
         </li>
         <li>
@@ -79,7 +79,7 @@
 
 <h3>Recordar utilizar npm run fake-api para el Crud Api</h3>
 
-      ***Para el carrito de comras se le agrego el total***
+      ***Para el carrito de compras se le agrego el total***
 
 ![imagentext](src/img/callito.gif).
 
